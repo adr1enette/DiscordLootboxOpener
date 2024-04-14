@@ -1,4 +1,4 @@
-# Discord Lootbox Opener
+# Discord Lootbox Opener 🚀
 
 This simple C# console application allows you to automatically open lootboxes in Discord using the Discord API.
 
