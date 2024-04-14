@@ -21,4 +21,4 @@ If you encounter any issues or have suggestions for improvements, feel free to o
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE]([LICENSE](https://github.com/adr1enette/DiscordLootboxOpener/blob/master/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/adr1enette/DiscordLootboxOpener/blob/master/LICENSE) file for details
